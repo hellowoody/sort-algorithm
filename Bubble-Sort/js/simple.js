@@ -12,10 +12,10 @@ console.log(arr)
 
 function sort(){
     for(let i = 0 ; i < arr.length ; i++){
-        for(let j = i + 1 ; j < arr.length ; j++){
-            if(arr[i] > arr[j]){
-                const tmp = arr[i]
-                arr[i] = arr[j]
+        for(let j = 1 ; j < arr.length - i ; j++){
+            if(arr[j-1] > arr[j]){
+                const tmp = arr[j-1]
+                arr[j-1] = arr[j]
                 arr[j] = tmp
             }
         }

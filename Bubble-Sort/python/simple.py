@@ -6,9 +6,9 @@ print(arr)
 
 def sort():
     for i in range(0,len(arr)):
-        for j in range(i+1,len(arr)):
-            if arr[i] > arr[j] :
-                arr[i],arr[j] = arr[j],arr[i]
+        for j in range(1,len(arr)-i):
+            if arr[j-1] > arr[j] :
+                arr[j-1],arr[j] = arr[j],arr[j-1]
                 
 
 sort()
