@@ -5,7 +5,7 @@ Several commonly used sorting algorithms
 
 >  O(n²) 的时间复杂度
 
-> ![image]()
+> ![image](https://github.com/hellowoody/sort-algorithm/blob/main/Bubble-Sort/gif/bubbleSort.gif?raw=true)
 
 ### 把数组排成最小的数
 
