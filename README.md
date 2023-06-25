@@ -1,7 +1,11 @@
 # sort-algorithm
 Several commonly used sorting algorithms
 
-## Bubble-Sort 冒泡排序
+## Bubble-Sort 冒泡排序 
+
+>  O(n²) 的时间复杂度
+
+> ![image]()
 
 ### 把数组排成最小的数
 
