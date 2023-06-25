@@ -21,3 +21,9 @@ Several commonly used sorting algorithms
     输入: [3,30,34,5,9]
     输出: "3033459"
  ```
+
+## Selection-Sort 选择排序 
+
+>  O(n²) 的时间复杂度
+
+> ![image](https://github.com/hellowoody/sort-algorithm/blob/main/Selection-Sort/gif/selectionSort.gif?raw=true)
