@@ -77,3 +77,15 @@ Several commonly used sorting algorithms
     输入：nums = [5,1,1,2,0,0]
     输出：[0,0,1,1,2,5]
  ```
+
+## 3.Insertion-Sort 插入排序 
+
+>  O(n²) 的时间复杂度
+
+> ![image](https://github.com/hellowoody/sort-algorithm/blob/main/Insertion-Sort/imgs/InsertSort-01.png?raw=true)
+
+> ![image](https://github.com/hellowoody/sort-algorithm/blob/main/Insertion-Sort/imgs/InsertSort-02.png?raw=true)
+
+> ![image](https://github.com/hellowoody/sort-algorithm/blob/main/Insertion-Sort/imgs/InsertSort-03.png?raw=true)
+
+> ![image](https://github.com/hellowoody/sort-algorithm/blob/main/Insertion-Sort/imgs/InsertSort-04.png?raw=true)
