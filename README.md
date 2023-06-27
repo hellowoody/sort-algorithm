@@ -150,6 +150,6 @@ Several commonly used sorting algorithms
 
 >  O(nlogn) 的时间复杂度
 
-> ![image](https://github.com/hellowoody/sort-algorithm/blob/main/Shell-Sort/gif/heapSort.gif?raw=true)  
+> ![image](https://github.com/hellowoody/sort-algorithm/blob/main/Heap-Sort/gif/heapSort.gif?raw=true)  
 > 
-> ![image](https://github.com/hellowoody/sort-algorithm/blob/main/Shell-Sort/gif/Sorting_heapsort_anim.gif?raw=true)  
+> ![image](https://github.com/hellowoody/sort-algorithm/blob/main/Heap-Sort/gif/Sorting_heapsort_anim.gif?raw=true)  
