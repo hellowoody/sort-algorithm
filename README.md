@@ -145,3 +145,11 @@ Several commonly used sorting algorithms
    输出：["Gold Medal","5","Bronze Medal","Silver Medal","4"]
    解释：名次为 [1st, 5th, 3rd, 2nd, 4th] 。
  ```
+
+## 5.Heap-Sort 堆排序 
+
+>  O(nlogn) 的时间复杂度
+
+> ![image](https://github.com/hellowoody/sort-algorithm/blob/main/Shell-Sort/gif/heapSort.gif?raw=true)  
+> 
+> ![image](https://github.com/hellowoody/sort-algorithm/blob/main/Shell-Sort/gif/Sorting_heapsort_anim.gif?raw=true)  
