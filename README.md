@@ -113,9 +113,9 @@ Several commonly used sorting algorithms
 > 初始增量第一趟 gap = length/2 = 4
 > ![image](https://github.com/hellowoody/sort-algorithm/blob/main/Shell-Sort/imgs/ShellSort-01.png?raw=true)
 
-> 第二趟，增量缩小为 2
-> ![image](https://github.com/hellowoody/sort-algorithm/blob/main/Shell-Sort/imgs/ShellSort-02.png?raw=true)
+> 第二趟，增量缩小为 2  
+> ![image](https://github.com/hellowoody/sort-algorithm/blob/main/Shell-Sort/imgs/ShellSort-02.png?raw=true)  
 
-> 第三趟，增量缩小为 1,得到最终排序结果
-> ![image](https://github.com/hellowoody/sort-algorithm/blob/main/Shell-Sort/imgs/ShellSort-03.png?raw=true)
+> 第三趟，增量缩小为 1,得到最终排序结果  
+> ![image](https://github.com/hellowoody/sort-algorithm/blob/main/Shell-Sort/imgs/ShellSort-03.png?raw=true)  
 
