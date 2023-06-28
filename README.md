@@ -195,4 +195,6 @@ Several commonly used sorting algorithms
 
 >  平均 Ο(nlogn) 的时间复杂度，最坏情况 O(n²) 的时间复杂度
 
-> ![image](https://github.com/hellowoody/sort-algorithm/blob/main/Quick-Sort/gif/quickSort.gif?raw=true)  
+> ![image](https://github.com/hellowoody/sort-algorithm/blob/main/Quick-Sort/imgs/Sorting_quicksort_anim.gif?raw=true)  
+
+> ![image](https://github.com/hellowoody/sort-algorithm/blob/main/Quick-Sort/imgs/alg-sort-fast.jpg?raw=true)  
