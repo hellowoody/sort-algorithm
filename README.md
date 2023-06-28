@@ -119,7 +119,7 @@ Several commonly used sorting algorithms
 > 第三趟，增量缩小为 1,得到最终排序结果  
 > ![image](https://github.com/hellowoody/sort-algorithm/blob/main/Shell-Sort/imgs/ShellSort-03.png?raw=true)  
 
-### 4.1 对链表进行插入排序
+### 4.1 相对名次
 
  > 给你一个长度为 n 的整数数组 score ，其中 score[i] 是第 i 位运动员在比赛中的得分。所有得分都 互不相同 。  
 
@@ -153,3 +153,39 @@ Several commonly used sorting algorithms
 > ![image](https://github.com/hellowoody/sort-algorithm/blob/main/Heap-Sort/gif/heapSort.gif?raw=true)  
 > 
 > ![image](https://github.com/hellowoody/sort-algorithm/blob/main/Heap-Sort/gif/Sorting_heapsort_anim.gif?raw=true)  
+
+
+### 5.1 数组中的第K个最大元素
+
+
+ > 给定整数数组 nums 和整数 k，请返回数组中第 k 个最大的元素。  
+ > 请注意，你需要找的是数组排序后的第 k 个最大的元素，而不是第 k 个不同的元素。  
+ > 你必须设计并实现时间复杂度为 O(n) 的算法解决此问题。  
+
+ - 示例 1:
+ ```
+   输入: [3,2,1,5,6,4], k = 2
+   输出: 5
+ ```
+ - 示例 2:
+ ```
+   输入: [3,2,3,1,2,4,5,5,6], k = 4
+   输出: 4
+ ```
+
+
+### 5.2 最小的k个数
+
+
+ > 输入整数数组 arr ，找出其中最小的 k 个数。例如，输入4、5、1、6、2、7、3、8这8个数字，则最小的4个数字是1、2、3、4。   
+
+ - 示例 1:
+ ```
+   输入：arr = [3,2,1], k = 2
+   输出：[1,2] 或者 [2,1]
+ ```
+ - 示例 2:
+ ```
+   输入：arr = [0,1,2,1], k = 1
+   输出：[0]
+ ```
