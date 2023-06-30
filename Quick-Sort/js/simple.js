@@ -6,7 +6,7 @@ function initData(count){
     }
 }
 
-initData(5)
+initData(10)
 
 console.log(arr)
 

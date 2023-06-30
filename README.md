@@ -198,3 +198,10 @@ Several commonly used sorting algorithms
 > ![image](https://github.com/hellowoody/sort-algorithm/blob/main/Quick-Sort/imgs/Sorting_quicksort_anim.gif?raw=true)  
 
 > ![image](https://github.com/hellowoody/sort-algorithm/blob/main/Quick-Sort/imgs/alg-sort-fast.jpg?raw=true)  
+
+
+## 7.Merge-Sort 归并排序
+
+>  始终都是 O(nlogn) 的时间复杂度。代价是需要额外的内存空间。
+
+> ![image](https://github.com/hellowoody/sort-algorithm/blob/main/Merge-Sort/gif/mergeSort.gif?raw=true)  
