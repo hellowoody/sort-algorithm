@@ -2,6 +2,8 @@ import random
 
 arr = [random.randint(-20,50) for _ in range(5)]
 
+arr = [5,1,1,2,0,0]
+
 print(arr)
 
 def quickSort(arr,start,end):
@@ -31,6 +33,7 @@ def partition(arr,start,end):
 
         if leftIdx < rightIdx:
             arr[leftIdx],arr[rightIdx] = arr[rightIdx],arr[leftIdx]
+            rightIdx-=1
     
 
     arr[start] = arr[leftIdx]
